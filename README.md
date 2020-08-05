@@ -1,5 +1,10 @@
 ## Welcome!
 
+MOON is short for Malleable Ontology and Online Navigation. Beyond the technical terms, it's our attempt to re-organize the web for everyone by everyone. 
+What does that mean? As the Internet is exploding in usage, we are drowning in more information, more content, more products, more choices. We fell in love with technology as it provided a semblance of control. However, we are now losing control to technology itself. Why is that? Or rather, how did that happen?
+
+The places that we spend most of our time are owned and run by someone else. We do not even pay for most services, and pay a rent or lease for others. Hence, they work on behalf of their owners and serve their goals and interests. These goals are not always aligned with our individual goals, such as spending more time watching videos or image feeds, as opposed to productive work or spending time with the family. We can argue that it's a choice. We do it because we choose to do it. This view is perfectly sensible but partially informed. Nature has bestowed us with a brain that has physical limits and evolutionary quirks. When an entity or platform figures out how to exploit those limits and quirks, we operate in a subservient mode, sometimes called System 1. 
+
 You can use the [editor on GitHub](https://github.com/rkarmani/moon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

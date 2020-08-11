@@ -7,9 +7,9 @@ The places that we spend most of our time are owned and run by someone else. We 
 
 
 Why Moon? It’s a cultural mirror that we can look at and get light from without scorching our eyes. Moon is calm. It absorbs the stress of the sun. But can also be a force of nature. 
-Moon is black, white, yellow, orange, red, dark. Moon is neither of them. Moon is grey.
-Moon is male, Moon is female, Moon is everything and nothing.
-Moon is for everyone. It does not take away anything. 
+Moon is black, white, yellow, orange, red, dark. And yet, moon is neither of them. Moon is grey.
+
+Moon is male, Moon is female, Moon is everything and nothing. Moon is for everyone. It does not take away anything. 
 We’ve marveled at it. We reached for it. We even made it, one-shot.
 
 Now it’s time for everyone to reach for their moonshots. And make every shot count.

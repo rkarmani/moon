@@ -6,6 +6,17 @@ What does that mean? As the Internet is exploding in usage, we are drowning in m
 The places that we spend most of our time are owned and run by someone else. We do not even pay for most services, and pay a rent or lease for others. Hence, they work on behalf of their owners and serve their goals and interests. These goals are not always aligned with our individual goals, such as spending more time watching videos or image feeds, as opposed to productive work or spending time with the family. We can argue that it's a choice. We do it because we choose to do it. This view is perfectly sensible but partially informed. Nature has bestowed us with a brain that has physical limits and evolutionary quirks. When an entity or platform figures out how to exploit those limits and quirks, we operate in a subservient mode, sometimes called System 1. 
 
 
+Why Moon? It’s a cultural mirror that we can look at and get light from without scorching our eyes. Moon is calm. It absorbs the stress of the sun. But can also be a force of nature. 
+Moon is black, white, yellow, orange, red, dark. Moon is neither of them. Moon is grey.
+Moon is male, Moon is female, Moon is everything and nothing.
+Moon is for everyone. It does not take away anything. 
+We’ve marveled at it. We reached for it. We even made it, one-shot.
+
+Now it’s time for everyone to reach for their moonshots. And make every shot count.
+
+Navigate the rapidly evolving and exponentially growing online worlds in your own way, and reach your goals.
+
+
 
 ### Markdown
 

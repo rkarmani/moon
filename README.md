@@ -12,12 +12,12 @@ The places that we spend most of our time are owned and run by someone else. We 
 Why Moon? It’s a cultural mirror that we can look at and get light from without scorching our eyes. Moon is calm. It absorbs the stress of the sun. But can also be a force of nature. 
 Moon is black, white, yellow, orange, red, dark. And yet, moon is neither of them. Moon is grey.
 
-Moon is male, Moon is female, Moon is everything and nothing. Moon is for everyone. It does not take away anything. 
-We’ve marveled at it. We reached for it. We even made it, one-shot.
+Moon is male, Moon is female, Moon is everything and nothing. No one owns the moon. Moon is for everyone. 
+It does not take away anything.  We’ve marveled at it. We reached for it. We even made it, when President Kennedy brought together a nation to realize the dream.
 
-Now it’s time for everyone to reach for their moonshots. And make every shot count.
+Importantly, moon is pristine and unpolluted, unlike the Internet today. We get to build a new Internet, the moon, so everyone can own a piece of it for shared ownership and prosperity. We choose to build the moon, and you're invited to join us.
 
-Navigate the rapidly evolving and exponentially growing online worlds in your own way, and reach your goals.
+Let's navigate the rapidly evolving and exponentially growing online worlds in our own way, on our own terms, and reach our dream goals.
 
 
 
